@@ -536,6 +536,7 @@ footer p {
 @media (max-width: 740px) {
     html {
         scroll-padding-top: 140px;
+        scroll-margin-top: 80px;
     }
 
     body .navbar {
