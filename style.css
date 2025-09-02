@@ -368,6 +368,7 @@ ul li {
 .Portfolio-section .container {
     width: 100%;
     margin: 15px;
+    margin-top: 50px;
 }
 
 .Portfolio-section .container h2 {
@@ -545,7 +546,7 @@ footer p {
     }
 
     .navbar .logo {
-        font-size: 20pxpx;
+        font-size: 20px;
         margin-bottom: 8px;
         font-weight: 800;
         padding-left: 2px;
@@ -553,6 +554,12 @@ footer p {
 
     .navbar ul {
         text-align: center;
+        width: 80%;
+        justify-content: center;
+        
+    }
+    .navbar ul li  a{
+        font-size: medium;
     }
 
     .home {
